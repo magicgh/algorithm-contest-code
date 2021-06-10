@@ -1,16 +1,14 @@
-# Algorithm Contest Code
+# Algorithm Contests Code
+
 ## Description  
-This repo includes two parts:  
-* **[Bashu OJ](http://oj.bashu.com.cn/) Code**   
-  &emsp;until 2017.11, some codes may be invalid now for changes of some problems  
-      &emsp;transferred from [Coding.net](https://magicgh.coding.net/p/BashuOJ-Code)
-    
 
-* **ACM Code**  
-  &emsp;2019.9 - 2019.11, from [Vjudge](https://vjudge.net/) and [SOJ](http://acm.scu.edu.cn/)
+This repo setting up to commemorate the period of good time when I engage in the algorithm contest includes two parts:  
 
-## Why create this repo?
-To commemorate that period of good time
+* [Bashu OJ](http://oj.bashu.com.cn/) Code
+
+* ACM Code, from [Vjudge](https://vjudge.net/) and [SOJ](http://acm.scu.edu.cn/)
+
+* Templates
 
 ## License
 
